@@ -13,5 +13,6 @@ skill  to be used
 - **spring thymeleaf**
 
 ------------------------------------
+#study
 
-maven [detail](http://www.tuicool.com/articles/j6jIVj)
+- *maven* [detail](http://www.tuicool.com/articles/j6jIVj)
