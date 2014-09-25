@@ -14,3 +14,4 @@ skill  to be used
 
 ------------------------------------
 
+maven [detail](http://www.tuicool.com/articles/j6jIVj)
