@@ -16,3 +16,4 @@ skill  to be used
 #study
 
 - *maven* [detail](http://www.tuicool.com/articles/j6jIVj)
+ [pom.springsecurity](http://blog.csdn.net/yjboy1982/article/details/6675724)
