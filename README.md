@@ -17,3 +17,5 @@ skill  to be used
 
 - *thymeleaf* [detail] (http://www.blogjava.net/bjwulin/archive/2014/02/11/409734.html)
 [detail2](http://www.open-open.com/lib/view/open1383622135586.html)
+
+- *fileupload* [detail](http://www.cnblogs.com/kingboy2008/p/3762285.html)
